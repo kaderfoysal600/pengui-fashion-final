@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+}
+.container-1{
+    background-color:#FFFBF0 ;
+
+}
+.container-2{
+    margin: 0 10%;
+}
+.logo img{
+    width: 400px;
+}
+.shopping-card{
+    border: none;
+}
+.btn-default{
+    border-style: none;
+    background-color: #92AC2C;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 14px;
+    text-align: center;
+}
+i img{
+    width: 20px;
+}
+.card-image-area{
+    height: 280px;
+    width: 260px;
+    background-color: #F1F1F1;
+    object-fit: cover;
+    border-radius: 5%;
+    /* margin-left: 15px;
+    margin-top: 15px; */
+}
+.card-image-area img{
+    max-width:100%;
+    max-height:100%;
+    vertical-align: middle;
+    padding-top: 10px;
+    padding-bottom: -20px;
+}
+
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.card-text{
+    font-size: 12px;
+}
+.offer-image img{
+    max-width: 80px;
+    max-height: 80px;
+}
+.offer-area{
+    height: 100px;
+    width: 400px;
+    background-color: white;
+    border-radius: 1em;
+}
+.offer-area p{
+    font-size: 10px;
+}
+.orange-text{
+    color: #FABE4C;
+}
+.communication-area{
+    background-color: black;
+}
+.communication-area-text{
+    color: white;
+}
